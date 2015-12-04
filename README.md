@@ -1,2 +1,2 @@
 # Martian
-A game which was built as part of CMPE202 project.
+A game which is built as part of CMPE202 project.
